@@ -17,7 +17,7 @@ The k most significant words (TF-IDF) in a document
 # 实验结果如下：
 图1为整篇文章中出现次数最多的10个词的词云；图2为去除常用词后出现最多的10个词的词云。  
 可以发现去除常用词后能够更加清楚地看出整篇文章讨论了哪些内容。   
-  
+https://github.com/chingyuanchang/Text-Visualization/blob/master/images/1.jpg
 图1：整篇文章，未去除            
-
+https://github.com/chingyuanchang/Text-Visualization/blob/master/images/2.jpg
 图2：整篇文章，去除后
